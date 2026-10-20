@@ -35,3 +35,8 @@
 - [eRank](https://haydenyoung85-bit.github.io/printshop-stack/tools/erank/): Etsy SEO and keyword research tool with listing audits and shop analytics.
 - [Marmalead](https://haydenyoung85-bit.github.io/printshop-stack/tools/marmalead/): Etsy SEO and keyword research tool.
 - [EverBee](https://haydenyoung85-bit.github.io/printshop-stack/tools/everbee/): Etsy product research and analytics tool, with a Chrome extension and free calculators such as an Etsy fee calculator.
+
+## Guides
+- [How to price 3D prints](https://haydenyoung85-bit.github.io/printshop-stack/guides/how-to-price-3d-prints/): A cost-plus method for pricing 3D prints: material, machine time, labor, failures and marketplace fees, with a clearly labelled worked example.
+- [Best software to manage a 3D print farm](https://haydenyoung85-bit.github.io/printshop-stack/guides/best-print-farm-software/): How to choose print-farm software: cloud vs local, printer compatibility, pricing models and failure detection, comparing six tools from vendor info.
+- [How to sell 3D prints online](https://haydenyoung85-bit.github.io/printshop-stack/guides/how-to-sell-3d-prints-online/): Where to sell 3D prints online, Etsy's fees and original-design rules, running your own Shopify store, SEO tools and model licensing.
