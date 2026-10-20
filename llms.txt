@@ -1,0 +1,37 @@
+# Print Shop Stack
+
+> A directory of tools for running a 3D print business. Pricing comes from official vendor sites (checked 2026-10-20). No invented reviews.
+
+## Print-Farm Software
+- [Printago](https://print-shop-stack.pages.dev/tools/printago/): Cloud print-farm management software that queues and dispatches jobs across many printers, including Bambu Lab machines.
+- [SimplyPrint](https://print-shop-stack.pages.dev/tools/simplyprint/): Browser-based printer management with remote control, print queues, cloud slicing, filament tracking and AI failure detection, across multiple printer brands..
+- [OctoPrint](https://print-shop-stack.pages.dev/tools/octoprint/): Open-source web interface for controlling and monitoring a single 3D printer, usually run on a Raspberry Pi, with a large plugin ecosystem..
+- [Obico](https://print-shop-stack.pages.dev/tools/obico/): AI-based print failure detection and remote access for OctoPrint and Klipper printers; open source, with a hosted cloud option or self-hosting..
+- [3DPrinterOS](https://print-shop-stack.pages.dev/tools/3dprinteros/): Cloud platform for managing fleets of 3D printers, aimed largely at schools, universities and enterprises..
+- [AutoFarm3D (3DQue)](https://print-shop-stack.pages.dev/tools/autofarm3d/): Print-farm software from 3DQue for queueing, monitoring and failure detection, which can run on a Raspberry Pi 4 for local, cloud-free remote access..
+
+## Slicers
+- [Bambu Studio](https://print-shop-stack.pages.dev/tools/bambu-studio/): Bambu Lab's official slicer, with project files, multi-plate support, and device control for Bambu printers..
+- [OrcaSlicer](https://print-shop-stack.pages.dev/tools/orcaslicer/): Community open-source slicer forked from Bambu Studio, with calibration tools and profiles for many printer brands..
+- [PrusaSlicer](https://print-shop-stack.pages.dev/tools/prusaslicer/): Prusa Research's open-source slicer, with profiles for Prusa and many third-party printers..
+- [UltiMaker Cura](https://print-shop-stack.pages.dev/tools/cura/): UltiMaker's widely used slicer with a large library of printer profiles and plugins..
+
+## AI 3D Model Generators
+- [Meshy](https://print-shop-stack.pages.dev/tools/meshy/): AI generator that turns text prompts or images into 3D models, with texturing, and has a 3D printing use case..
+- [Tripo](https://print-shop-stack.pages.dev/tools/tripo/): AI 3D model generator from text or images, with retopology and texture tools..
+- [Hyper3D Rodin](https://print-shop-stack.pages.dev/tools/rodin/): Hyper3D's Rodin generator creates 3D models from one or more images or text..
+
+## Filament Brands
+- [Bambu Lab Filament](https://print-shop-stack.pages.dev/tools/bambu-filament/): Bambu Lab's own filament line, including RFID-tagged spools that Bambu AMS units read automatically..
+- [Polymaker](https://print-shop-stack.pages.dev/tools/polymaker/): Filament maker with a wide range, from PolyTerra/PolyLite PLA to engineering materials..
+- [Elegoo Filament](https://print-shop-stack.pages.dev/tools/elegoo/): Elegoo sells budget-oriented PLA and other filaments alongside its printers..
+- [eSUN](https://print-shop-stack.pages.dev/tools/esun/): Long-running filament manufacturer with PLA+, PETG and specialty materials..
+- [Overture](https://print-shop-stack.pages.dev/tools/overture/): Filament brand sold direct and on marketplaces, known for PLA and PETG lines..
+- [SUNLU](https://print-shop-stack.pages.dev/tools/sunlu/): Filament brand that also sells filament dryers..
+
+## Etsy & Shopify Selling Tools
+- [Etsy](https://print-shop-stack.pages.dev/tools/etsy/): Marketplace for handmade and custom goods; a common first sales channel for 3D print shops..
+- [Shopify](https://print-shop-stack.pages.dev/tools/shopify/): Hosted e-commerce platform for running your own online store..
+- [eRank](https://print-shop-stack.pages.dev/tools/erank/): Etsy SEO and keyword research tool with listing audits and shop analytics..
+- [Marmalead](https://print-shop-stack.pages.dev/tools/marmalead/): Etsy SEO and keyword research tool..
+- [EverBee](https://print-shop-stack.pages.dev/tools/everbee/): Etsy product research and analytics tool, with a Chrome extension and free calculators such as an Etsy fee calculator..
